@@ -1,4 +1,0 @@
-#Sun Jan 26 08:24:43 BDT 2020
-base.0=C\:\\Users\\Taxi\\programs\\flutter2020\\navigation_drawer_2020\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
